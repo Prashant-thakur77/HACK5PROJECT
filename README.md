@@ -1,6 +1,6 @@
 # SATYAFIR
 
-**SATYAFIR** (सत्यFIR) is a decentralized FIR (First Information Report) lodging and tracking system built on blockchain technology to ensure transparency, immutability, and accessibility of complaint records.
+**SATYAFIR** (सत्यFIR) is a Decentralized FIR (First Information Report) Lodging and tracking system built on blockchain technology to ensure transparency, immutability, and accessibility of complaint records.
 
 ## 🚀 Overview
 

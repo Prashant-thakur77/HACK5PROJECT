@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\prash\\Desktop\\ktun\\contracts\\PoliceWalletManager.sol": {
+      "lastModificationDate": 1743532221333,
+      "contentHash": "d1e1cd34a35834fe470d3316586f75b4",
+      "sourceName": "contracts/PoliceWalletManager.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "PoliceWalletManager"
+      ]
+    },
+    "C:\\Users\\prash\\Desktop\\ktun\\contracts\\SecureFIRSystem.sol": {
+      "lastModificationDate": 1743532221334,
+      "contentHash": "bd140f68f00ff90b84e3bc321a780f5c",
+      "sourceName": "contracts/SecureFIRSystem.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SecureFIRSystem"
+      ]
+    }
+  }
+}

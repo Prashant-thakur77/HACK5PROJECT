@@ -11,7 +11,7 @@ const spaceGrotesk = Space_Grotesk({
 })
 
 export const metadata: Metadata = {
-  title: "KTUN",
+  title: "SATYAFIR",
   description: "Decentralized Police Application",
     generator: 'v0.dev'
 }
